@@ -100,7 +100,7 @@ pathspec==0.7.0
 patsy==0.5.1
 pmdarima==1.1.1
 portalocker==1.6.0
-protobuf==3.11.3
+protobuf==3.18.3
 psutil==5.7.0
 py-cpuinfo==5.0.0
 pyarrow==0.16.0
