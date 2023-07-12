@@ -1,6 +1,6 @@
-# skillenza_hack
+# skillenza_hack - Azure_Sales_Prediction_Hackathon
 
-The Alma2020 repository is the project space of the team ALMA2020 - Mishmash Online Hackathon.
+This repository is the project space of the team ALMA2020 - Mishmash Online Hackathon.
 
 The sales prediction tool is developed thoughtful planning of data, user-experience, performance, and stability. The tool designed is integrated with the Machine-Learning model for the purpose of prediction.
 
